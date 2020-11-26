@@ -1,6 +1,6 @@
 import styled from 'styled-components';
 
-export default function HomePage() {
+const HomePage = () => {
   return (
     <>
       GALLERY HOTEL NEXTjs
