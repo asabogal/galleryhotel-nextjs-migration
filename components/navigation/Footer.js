@@ -1,18 +1,21 @@
 import styled from 'styled-components';
 import SignupForm from '../utils/SignupForm';
 import SocialBar from '../utils/SocialBar';
-import Link from 'next/router';
+import Link from 'next/link';
 // media library
 import Media from 'react-media';
 // logo
-import logo from '../../images/gh_logo.svg';
+import logo from '../../public/images/gh_logo.svg';
 
 const Footer = () => {
   return (
     <Container>
       <InfoWrapper>
         <LogoContainer>
-          <img src={logo} alt='hotel-logo'></img>
+          <Link href='/'>
+            <a><img src={logo} alt='hotel-logo'></img></a>
+          </Link>
+          
         </LogoContainer>
         <div>
           <a href="mailto:info@galleryhotelny.com"><h4>info@galleryhotelny.com</h4></a>
