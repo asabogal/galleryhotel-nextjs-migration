@@ -26,7 +26,7 @@
     "yarn.lock": "^0.0.1-security"
   },
   "devDependencies": {
-    "babel-plugin-styled-components": "^1.8.0"
+    "babel-plugin-styled-components": "^1.12.0"
   },
   "license": "MIT"
 }
