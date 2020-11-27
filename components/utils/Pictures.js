@@ -1,5 +1,5 @@
 import styled from 'styled-components';
-import Link from 'next/router';
+import Link from 'next/link';
 
 export const Picture = (props) => {
   return (

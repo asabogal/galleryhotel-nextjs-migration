@@ -3,7 +3,7 @@ import styled from 'styled-components';
 import {MenuButton} from '../utils/Buttons';
 import logo from '../../public/images/gh_logo.svg';
 import {Button} from '../utils/Buttons';
-import Lonk from 'next/router';
+import Link from 'next/link';
 
 const NavHeader = (props) => {
 

@@ -1,7 +1,7 @@
 import styled from 'styled-components';
 import {CloseButton} from '../utils/Buttons';
 import SocialBar from '../utils/SocialBar';
-import Link from 'next/router';
+import Link from 'next/link';
 
 const SideNav = (props) => {
   return (
@@ -17,25 +17,25 @@ const SideNav = (props) => {
       <MainNav>
         <LinksContainer>
           <div onClick={props.click}>  
-            <Link heref='/'><a>HOME</a></Link>
+            <Link href='/'><a>HOME</a></Link>
           </div>
           <div onClick={props.click}>
-            <Link heref='/location'><a>LOCATION</a></Link>
+            <Link href='/location'><a>LOCATION</a></Link>
           </div>
           <div onClick={props.click}>
-            <Link heref='/rooms'><a>ROOMS</a></Link>
+            <Link href='/rooms'><a>ROOMS</a></Link>
           </div>
           <div onClick={props.click}>
-            <Link heref='/amenities'><a>AMENITIES</a></Link>
+            <Link href='/amenities'><a>AMENITIES</a></Link>
           </div>
           <div onClick={props.click}>
-            <Link heref='/eatdrink'><a>EAT & DRINK</a></Link>
+            <Link href='/eatdrink'><a>EAT & DRINK</a></Link>
           </div>
           <div onClick={props.click}>
-            <Link heref='/events_blocks'><a>EVENTS & BLOCKS</a></Link>
+            <Link href='/events_blocks'><a>EVENTS & BLOCKS</a></Link>
           </div>
           <div onClick={props.click}>
-            <Link heref='/contact'><a>CONTACT US</a></Link>
+            <Link href='/contact'><a>CONTACT US</a></Link>
           </div>
           <div onClick={props.click}>
             <a href='https://galleryhotelny.client.innroad.com' target="_blank" rel="noopener noreferrer">RESERVE</a>
