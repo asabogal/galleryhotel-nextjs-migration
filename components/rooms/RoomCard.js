@@ -24,7 +24,7 @@ const RoomCard = ({name, image, description, features, link, explore, small}) =>
         </IconsContainer>
         <p>{description}</p>
         {
-          explore && <Link to={link}>EXPLORE</Link>
+          explore && <Link href={link}>EXPLORE</Link>
         }
       </InfoContainer>
     </Container>
