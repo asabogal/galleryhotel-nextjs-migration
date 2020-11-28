@@ -1,67 +1,67 @@
 //  images
   // standard
-import standard3 from '../../images/rooms/room_pictures/standard_room/standard3.png';
-import standard4 from '../../images/rooms/room_pictures/standard_room/standard4.png';
-import standard7 from '../../images/rooms/room_pictures/standard_room/standard7.png';
-import standard8 from '../../images/rooms/room_pictures/standard_room/standard8.png';
+import standard3 from '../../public/images/rooms/room_pictures/standard_room/standard3.png';
+import standard4 from '../../public/images/rooms/room_pictures/standard_room/standard4.png';
+import standard7 from '../../public/images/rooms/room_pictures/standard_room/standard7.png';
+import standard8 from '../../public/images/rooms/room_pictures/standard_room/standard8.png';
   // kingloft 
-import kingLoft5 from '../../images/rooms/room_pictures/king_loft/kingloft5.png'; 
-import kingLoft6 from '../../images/rooms/room_pictures/king_loft/kingloft6.png'; 
+import kingLoft5 from '../../public/images/rooms/room_pictures/king_loft/kingloft5.png'; 
+import kingLoft6 from '../../public/images/rooms/room_pictures/king_loft/kingloft6.png'; 
   // queenDeck
-import queenDeck from '../../images/rooms/room_pictures/queen_deck/queendeck.png';   
+import queenDeck from '../../public/images/rooms/room_pictures/queen_deck/queendeck.png';   
   // kingDeck
-import kingDeck from '../../images/rooms/room_pictures/king_deck/kingdeck.png';
+import kingDeck from '../../public/images/rooms/room_pictures/king_deck/kingdeck.png';
   // gardenSuite
-import gardenSuite from '../../images/rooms/room_pictures/garden_suite/gardensuite.png'; 
-import gardenSuite2 from '../../images/rooms/room_pictures/garden_suite/gardensuite2.png';
-import gardenSuite3 from '../../images/rooms/room_pictures/garden_suite/gardensuite3.png';
-import gardenSuite4 from '../../images/rooms/room_pictures/garden_suite/gardensuite4.png';
+import gardenSuite from '../../public/images/rooms/room_pictures/garden_suite/gardensuite.png'; 
+import gardenSuite2 from '../../public/images/rooms/room_pictures/garden_suite/gardensuite2.png';
+import gardenSuite3 from '../../public/images/rooms/room_pictures/garden_suite/gardensuite3.png';
+import gardenSuite4 from '../../public/images/rooms/room_pictures/garden_suite/gardensuite4.png';
   // privateSuite
-import privateSuite from '../../images/rooms/room_pictures/private_suite/privatesuite.png'; 
-import privateSuite2 from '../../images/rooms/room_pictures/private_suite/privatesuite2.png';
-import privateSuite3 from '../../images/rooms/room_pictures/private_suite/privatesuite3.png';
-import privateSuite4 from '../../images/rooms/room_pictures/private_suite/privatesuite4.png';
-import privateSuiteDeck from '../../images/rooms/room_pictures/private_suite/privatesuite_deck.png';   
-import privateSuiteTub from '../../images/rooms/room_pictures/private_suite/privatesuite_tub.png';   
+import privateSuite from '../../public/images/rooms/room_pictures/private_suite/privatesuite.png'; 
+import privateSuite2 from '../../public/images/rooms/room_pictures/private_suite/privatesuite2.png';
+import privateSuite3 from '../../public/images/rooms/room_pictures/private_suite/privatesuite3.png';
+import privateSuite4 from '../../public/images/rooms/room_pictures/private_suite/privatesuite4.png';
+import privateSuiteDeck from '../../public/images/rooms/room_pictures/private_suite/privatesuite_deck.png';   
+import privateSuiteTub from '../../public/images/rooms/room_pictures/private_suite/privatesuite_tub.png';   
   // decks
-import deck1 from '../../images/rooms/room_pictures/deck/deck1.png';
-import deck2 from '../../images/rooms/room_pictures/deck/deck2.png';
-import deck3 from '../../images/rooms/room_pictures/deck/deck3.png';
+import deck1 from '../../public/images/rooms/room_pictures/deck/deck1.png';
+import deck2 from '../../public/images/rooms/room_pictures/deck/deck2.png';
+import deck3 from '../../public/images/rooms/room_pictures/deck/deck3.png';
 // other
-import minibarImage from '../../images/rooms/room_pictures/other/minibar.png';
-import dresser from '../../images/rooms/room_pictures/other/dresser.png';
+import minibarImage from '../../public/images/rooms/room_pictures/other/minibar.png';
+import dresser from '../../public/images/rooms/room_pictures/other/dresser.png';
 
 // large icons
-import twoPersonsLarge from '../../images/rooms/icons/cards/two_persons.svg';
-import threePersonsLarge from '../../images/rooms/icons/cards/three_persons.svg';
-import fourPersonsLarge from '../../images/rooms/icons/cards/four_persons.svg';
-import queenBedLarge from '../../images/rooms/icons/cards/queenBed.svg';
-import kingBedLarge from '../../images/rooms/icons/cards/kingBed.svg';
-import sofabedLarge from '../../images/rooms/icons/cards/sofabed.svg';
-import showerLarge from '../../images/rooms/icons/cards/shower.svg';
-import jacuzziLarge from '../../images/rooms/icons/cards/jacuzzi.svg';
-import deckLarge from '../../images/rooms/icons/cards/deck.svg';
-import accessibleLarge from '../../images/rooms/icons/cards/accessibility.svg';
+import twoPersonsLarge from '../../public/images/rooms/icons/cards/two_persons.svg';
+import threePersonsLarge from '../../public/images/rooms/icons/cards/three_persons.svg';
+import fourPersonsLarge from '../../public/images/rooms/icons/cards/four_persons.svg';
+import queenBedLarge from '../../public/images/rooms/icons/cards/queenBed.svg';
+import kingBedLarge from '../../public/images/rooms/icons/cards/kingBed.svg';
+import sofabedLarge from '../../public/images/rooms/icons/cards/sofabed.svg';
+import showerLarge from '../../public/images/rooms/icons/cards/shower.svg';
+import jacuzziLarge from '../../public/images/rooms/icons/cards/jacuzzi.svg';
+import deckLarge from '../../public/images/rooms/icons/cards/deck.svg';
+import accessibleLarge from '../../public/images/rooms/icons/cards/accessibility.svg';
 // small icons
-import twoPersons from '../../images/rooms/icons/room_page/two_persons.svg';
-import threePersons from '../../images/rooms/icons/room_page/three_persons.svg';
-import fourPersons from '../../images/rooms/icons/room_page/four_persons.svg';
-import queenBed from '../../images/rooms/icons/room_page/queenBed.svg';
-import kingBed from '../../images/rooms/icons/room_page/kingBed.svg';
-import sofabed from '../../images/rooms/icons/room_page/sofabed.svg';
-import shower from '../../images/rooms/icons/room_page/shower.svg';
-import jacuzzi from '../../images/rooms/icons/room_page/jacuzzi.svg';
-import deck from '../../images/rooms/icons/room_page/deck.svg';
-import tv from '../../images/rooms/icons/room_page/tv.svg';
-import bedding from '../../images/rooms/icons/room_page/bedding.svg';
-import toiletries from '../../images/rooms/icons/room_page/toiletries.svg';
-import minibar from '../../images/rooms/icons/room_page/minibar.svg';
-import wifi from '../../images/rooms/icons/room_page/wifi.svg';
-import hairDryer from '../../images/rooms/icons/room_page/hairDryer.svg';
-import bathrobes from '../../images/rooms/icons/room_page/bathrobes.svg';
-import acUnit from '../../images/rooms/icons/room_page/acUnit.svg';
-import housekeeping from '../../images/rooms/icons/room_page/housekeeping.svg';
-import accessible from '../../images/rooms/icons/room_page/accessibility.svg';
+import twoPersons from '../../public/images/rooms/icons/room_page/two_persons.svg';
+import threePersons from '../../public/images/rooms/icons/room_page/three_persons.svg';
+import fourPersons from '../../public/images/rooms/icons/room_page/four_persons.svg';
+import queenBed from '../../public/images/rooms/icons/room_page/queenBed.svg';
+import kingBed from '../../public/images/rooms/icons/room_page/kingBed.svg';
+import sofabed from '../../public/images/rooms/icons/room_page/sofabed.svg';
+import shower from '../../public/images/rooms/icons/room_page/shower.svg';
+import jacuzzi from '../../public/images/rooms/icons/room_page/jacuzzi.svg';
+import deck from '../../public/images/rooms/icons/room_page/deck.svg';
+import tv from '../../public/images/rooms/icons/room_page/tv.svg';
+import bedding from '../../public/images/rooms/icons/room_page/bedding.svg';
+import toiletries from '../../public/images/rooms/icons/room_page/toiletries.svg';
+import minibar from '../../public/images/rooms/icons/room_page/minibar.svg';
+import wifi from '../../public/images/rooms/icons/room_page/wifi.svg';
+import hairDryer from '../../public/images/rooms/icons/room_page/hairDryer.svg';
+import bathrobes from '../../public/images/rooms/icons/room_page/bathrobes.svg';
+import acUnit from '../../public/images/rooms/icons/room_page/acUnit.svg';
+import housekeeping from '../../public/images/rooms/icons/room_page/housekeeping.svg';
+import accessible from '../../public/images/rooms/icons/room_page/accessibility.svg';
 
 export const roomData = [
   {
