@@ -5,8 +5,8 @@ import {mapStyle} from '../data/mapData/MapStyle';
 import {spots} from '../data/mapData/NearbySpots';
 
 // icons
-import hotel from '../images/location/hotel.svg';
-import dot from '../images/location/dot.svg';
+import hotel from '../public/images/location/hotel.svg';
+import dot from '../public/images/location/dot.svg';
 
 const Map = (props) => {
 
