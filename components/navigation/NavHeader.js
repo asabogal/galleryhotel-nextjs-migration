@@ -84,6 +84,7 @@ const LogoContainer = styled.div`
   justify-self: center;
   width: auto;
   height: 90%;
+  cursor: pointer;
   img {
     width: 100%;
     height: 70px;
