@@ -13,7 +13,7 @@ const ContactBox = () => {
       </TextContainer>
       <RequestContainer>
       <h3>REQUEST A PROPOSAL</h3>
-      <a href="mailto:info@galleryhotelny.com">
+      <a href="mailto:admin@galleryhotelny.com">
         <Button >Email Us</Button>
       </a>
     </RequestContainer>
