@@ -1,5 +1,6 @@
 import {useState} from 'react';
 import styled from 'styled-components';
+import HeadMessage from '../navigation/HeadMessage';
 import NavHeader from '../navigation/NavHeader';
 import SideNav from '../navigation/SideNav';
 import Backdrop from './Backdrop';
@@ -24,6 +25,7 @@ const Layout = (props) => {
 
   return (
     <LayoutContainer>
+      <HeadMessage/>
       <NavHeader toggleSideNav={toggleSideNav}/>
       <SideNav open={isOpen} click={closeSideNav}/>
       {backdrop}
