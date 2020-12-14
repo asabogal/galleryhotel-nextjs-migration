@@ -1,29 +1,29 @@
 //  images
-  // standard
+// standard
 import standard3 from '../../public/images/rooms/room_pictures/standard_room/standard3.png';
 import standard4 from '../../public/images/rooms/room_pictures/standard_room/standard4.png';
 import standard7 from '../../public/images/rooms/room_pictures/standard_room/standard7.png';
 import standard8 from '../../public/images/rooms/room_pictures/standard_room/standard8.png';
-  // kingloft 
-import kingLoft5 from '../../public/images/rooms/room_pictures/king_loft/kingloft5.png'; 
-import kingLoft6 from '../../public/images/rooms/room_pictures/king_loft/kingloft6.png'; 
-  // queenDeck
-import queenDeck from '../../public/images/rooms/room_pictures/queen_deck/queendeck.png';   
-  // kingDeck
+// kingloft 
+import kingLoft5 from '../../public/images/rooms/room_pictures/king_loft/kingloft5.png';
+import kingLoft6 from '../../public/images/rooms/room_pictures/king_loft/kingloft6.png';
+// queenDeck
+import queenDeck from '../../public/images/rooms/room_pictures/queen_deck/queendeck.png';
+// kingDeck
 import kingDeck from '../../public/images/rooms/room_pictures/king_deck/kingdeck.png';
-  // gardenSuite
-import gardenSuite from '../../public/images/rooms/room_pictures/garden_suite/gardensuite.png'; 
+// gardenSuite
+import gardenSuite from '../../public/images/rooms/room_pictures/garden_suite/gardensuite.png';
 import gardenSuite2 from '../../public/images/rooms/room_pictures/garden_suite/gardensuite2.png';
 import gardenSuite3 from '../../public/images/rooms/room_pictures/garden_suite/gardensuite3.png';
 import gardenSuite4 from '../../public/images/rooms/room_pictures/garden_suite/gardensuite4.png';
-  // privateSuite
-import privateSuite from '../../public/images/rooms/room_pictures/private_suite/privatesuite.png'; 
+// privateSuite
+import privateSuite from '../../public/images/rooms/room_pictures/private_suite/privatesuite.png';
 import privateSuite2 from '../../public/images/rooms/room_pictures/private_suite/privatesuite2.png';
 import privateSuite3 from '../../public/images/rooms/room_pictures/private_suite/privatesuite3.png';
 import privateSuite4 from '../../public/images/rooms/room_pictures/private_suite/privatesuite4.png';
-import privateSuiteDeck from '../../public/images/rooms/room_pictures/private_suite/privatesuite_deck.png';   
-import privateSuiteTub from '../../public/images/rooms/room_pictures/private_suite/privatesuite_tub.png';   
-  // decks
+import privateSuiteDeck from '../../public/images/rooms/room_pictures/private_suite/privatesuite_deck.png';
+import privateSuiteTub from '../../public/images/rooms/room_pictures/private_suite/privatesuite_tub.png';
+// decks
 import deck1 from '../../public/images/rooms/room_pictures/deck/deck1.png';
 import deck2 from '../../public/images/rooms/room_pictures/deck/deck2.png';
 import deck3 from '../../public/images/rooms/room_pictures/deck/deck3.png';
@@ -66,7 +66,7 @@ import accessible from '../../public/images/rooms/icons/room_page/accessibility.
 export const roomData = [
   {
     name: 'Standard Queen',
-    avgRate: 220,
+    avgRate: 205,
     roomType: 'Guest Room',
     sleeps: 2,
     maxSleeps: null,
@@ -94,12 +94,12 @@ export const roomData = [
       cardImage: standard3,
       heroImage: standard3,
       other: {
-        "Standard Room #4": standard4, 
-        "Standard Room #7": standard7, 
+        "Standard Room #4": standard4,
+        "Standard Room #7": standard7,
         "Standard Room #8": standard8,
-        "Standard Room #3": standard3, 
-        "x": dresser,   
-        "z": minibarImage, 
+        "Standard Room #3": standard3,
+        "x": dresser,
+        "z": minibarImage,
       }
     },
     link: '/rooms/standard',
@@ -109,7 +109,7 @@ export const roomData = [
 
   {
     name: 'King Loft',
-    avgRate: 240,
+    avgRate: 225,
     roomType: 'Guest Room',
     sleeps: 2,
     maxSleeps: null,
@@ -137,9 +137,9 @@ export const roomData = [
       cardImage: kingLoft5,
       heroImage: kingLoft5,
       other: {
-        "King Loft Room #6": kingLoft6, 
+        "King Loft Room #6": kingLoft6,
         "King Loft Room #5": kingLoft5,
-        "x": dresser,   
+        "x": dresser,
         "z": minibarImage,
       },
     },
@@ -150,7 +150,7 @@ export const roomData = [
 
   {
     name: 'Queen With Deck',
-    avgRate: 240,
+    avgRate: 230,
     roomType: 'Guest Room',
     sleeps: 2,
     maxSleeps: null,
@@ -188,7 +188,7 @@ export const roomData = [
 
   {
     name: 'King With Deck',
-    avgRate: 280,
+    avgRate: 245,
     roomType: 'Guest Room',
     sleeps: 2,
     maxSleeps: null,
@@ -267,7 +267,7 @@ export const roomData = [
 
   {
     name: 'Private Suite',
-    avgRate: 650,
+    avgRate: 750,
     roomType: 'Suite',
     sleeps: 2,
     maxSleeps: 3,
