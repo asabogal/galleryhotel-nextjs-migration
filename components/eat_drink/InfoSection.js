@@ -18,7 +18,7 @@ const InfoSection = () => {
           image={dumplings} 
           alt='dumplings'
           heading='Dinner Menu'
-          info='Discover our eclectic cousine'
+          info='Discover our eclectic cuisine'
           link='/eatdrink/dinner'
         />
       </ImageContainer>

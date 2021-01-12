@@ -1,7 +1,7 @@
 export const amenities = [
   {
     heading: 'Our Garden',
-    description: 'Our hidden gem, the heart of the hotel. Read a good book, endulge with a glass of rose, and simply relax on one of the multiple outdoor sofas and sitting areas. In the evenings, our in-house restaurant and bar serves cocktails and dinner.',
+    description: 'Our hidden gem, the heart of the hotel. Read a good book, indulge with a glass of rose, and simply relax on one of the multiple outdoor sofas and sitting areas. In the evenings, our in-house restaurant and bar serves cocktails and dinner.',
     link: '/amenities/garden'
   },
   {
@@ -31,7 +31,7 @@ export const amenities = [
   },
   {
     heading: 'High Speed Wi-Fi',
-    description: 'Up to 400Mbps of internet speed troughout the property.',
+    description: 'Up to 400Mbps of internet speed throughout the property.',
   },
   {
     heading: 'Daily Housekeeping',

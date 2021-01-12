@@ -14,7 +14,7 @@ const VintageMap = () => {
       </MapContainer>
       <TextContainer>
         <h2>Your Destination</h2>
-        <p>Welcome to the North Fork, Long Island's "Wine Country". There are over 60 vineyards, breweries and distilleries. Multiple harvests along the fork provide offerings from land and sea, sourcing small farmers and fish markets, as well as distiguished local restaurants, including ours. The area is surrounded by beautiful waters ideal to escape onto isolated beaches or experience maritime culture and activities. The town of Greenport is where the action is. Numerous shops, restaurants and bars, all within walking distance of our hotel, will make your stay an adventurous one.</p>
+        <p>Welcome to the North Fork, Long Island's "Wine Country". There are over 60 vineyards, breweries and distilleries. Multiple harvests along the fork provide offerings from land and sea, sourcing small farmers and fish markets, as well as distinguished local restaurants, including ours. The area is surrounded by beautiful waters ideal to escape onto isolated beaches or experience maritime culture and activities. The town of Greenport is where the action is. Numerous shops, restaurants and bars, all within walking distance of our hotel, will make your stay an adventurous one.</p>
       </TextContainer>
       <ImageContainer>
         <Thumbnail 
