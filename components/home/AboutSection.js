@@ -25,7 +25,7 @@ const AboutSection = () => {
           image={room} 
           alt='room-picture'
           heading='Our Rooms'
-          info='Expore our stylish rooms'
+          info='Explore our stylish rooms'
           link='/rooms'
           />
         </TopSection>
