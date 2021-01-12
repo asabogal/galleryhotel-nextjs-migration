@@ -10,7 +10,7 @@ const ArrivalCard = () => {
       <Card>
         <Top>
           <img src={bus} alt='bus-icon'></img>
-          <p>Hapmton Jitney</p>
+          <p>Hampton Jitney</p>
           <p>7 min. walk</p>
         </Top>
         <Bottom>
