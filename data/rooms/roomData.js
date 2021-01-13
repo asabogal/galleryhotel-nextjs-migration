@@ -66,7 +66,7 @@ import accessible from '../../public/images/rooms/icons/room_page/accessibility.
 export const roomData = [
   {
     name: 'Standard Queen',
-    avgRate: 205,
+    avgRate: 270,
     roomType: 'Guest Room',
     sleeps: 2,
     maxSleeps: null,
@@ -109,7 +109,7 @@ export const roomData = [
 
   {
     name: 'King Loft',
-    avgRate: 225,
+    avgRate: 295,
     roomType: 'Guest Room',
     sleeps: 2,
     maxSleeps: null,
@@ -150,7 +150,7 @@ export const roomData = [
 
   {
     name: 'Queen With Deck',
-    avgRate: 230,
+    avgRate: 295,
     roomType: 'Guest Room',
     sleeps: 2,
     maxSleeps: null,
@@ -188,7 +188,7 @@ export const roomData = [
 
   {
     name: 'King With Deck',
-    avgRate: 245,
+    avgRate: 325,
     roomType: 'Guest Room',
     sleeps: 2,
     maxSleeps: null,
@@ -226,7 +226,7 @@ export const roomData = [
 
   {
     name: 'Garden Suite',
-    avgRate: 450,
+    avgRate: 600,
     roomType: 'Suite',
     sleeps: 4,
     maxSleeps: 6,
@@ -267,7 +267,7 @@ export const roomData = [
 
   {
     name: 'Private Suite',
-    avgRate: 750,
+    avgRate: 700,
     roomType: 'Suite',
     sleeps: 2,
     maxSleeps: 3,
