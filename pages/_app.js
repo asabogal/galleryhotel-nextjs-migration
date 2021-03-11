@@ -81,7 +81,7 @@ const App = ({ Component, pageProps }) => {
         <meta charSet="utf-8" />
         <title>The Gallery Hotel</title>
         <meta name="description" content="The Gallery Hotel - A stylish boutique hotel and contemporary art gallery in the heart Greenport, New York" />
-        <meta name="keywords" content="Gallery Hotel, Gallery, Hotel, The Gallery Hotel, Greenport, Greenport Hotel, greenport hotel, hotel, gallery, long island, greenport new york hotel" />
+        <meta name="keywords" content="Gallery Hotel, Gallery, Hotel, The Gallery Hotel, Greenport, Greenport Hotel, greenport hotel, hotel, hotels, gallery, long island, new york, hamptons, greenport new york hotel" />
         <link rel="icon" type="image/png" href="./favicon.ico" sizes="16x16" />
         <link href="https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900&display=swap" rel="stylesheet" />
       </Helmet>
